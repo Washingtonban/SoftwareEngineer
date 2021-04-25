@@ -8,6 +8,7 @@ Repository of planning of study about software engineer and correlated. This rep
 - [x] Django
 - [ ] Flutter
 - [ ] Pytest
+- [ ] Spring Boot
 
 ## Languages
 
@@ -15,6 +16,7 @@ Repository of planning of study about software engineer and correlated. This rep
 - [ ] JavaScript
 - [ ] Kotlin
 - [ ] Dart
+- [ ] Go
 
 ## Software architecture
 
@@ -42,7 +44,7 @@ Repository of planning of study about software engineer and correlated. This rep
 
 ## Courses
 
-- [ ] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles?index=product&queryID=f3d81f132475a5b6e408ac7fa9d5eefa&position=5)
+- [ ] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles?index=product&queryID=f3d81f132475a5b6e408ac7fa9d5eefa&position=5) (In Progress)
 - [ ] [Learn the design approaches to software engineering](https://www.edx.org/micromasters/ubcx-software-development?index=product&queryID=8be09f9b612f102a9952d581ae5a400e&position=1)
 - [ ] [Advanced REST APIs with Flask and Python](https://www.udemy.com/course/advanced-rest-apis-flask-python/)
 - [ ] [Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/)
@@ -61,8 +63,9 @@ Repository of planning of study about software engineer and correlated. This rep
 
 ### Books
 
-- [ ] [Git pro](https://git-scm.com/book/pt-br/v2)
+- [ ] [Git pro](https://git-scm.com/book/pt-br/v2) (In Progress)
 - [x] [Arquitetura limpa: o guia do artesão para estrutura e design de software](https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606/ref=sr_1_1?adgrpid=81599802632&dchild=1&gclid=CjwKCAjwmv-DBhAMEiwA7xYrd7DhVjVpbEPlzrPhUX3eubyLj4VqBDlulxr7CprN_h_zNlp5pMHxuBoC93IQAvD_BwE&hvadid=426777822434&hvdev=c&hvlocphy=1001511&hvnetw=g&hvqmt=e&hvrand=183792044968552290&hvtargid=kwd-717163930446&hydadcr=5759_11235977&keywords=arquitetura+limpa&qid=1619032380&s=books&sr=1-1)
+- [ ] [Código limpo: habilidades práticas do Agile Software](https://www.amazon.com.br/Código-limpo-Robert-C-Martin/dp/8576082675/ref=sr_1_1?adgrpid=81608350312&dchild=1&gclid=Cj0KCQjwppSEBhCGARIsANIs4p7LC-zWmct91FB5mWLrZdQA-o2QHvM2LYwQdX9Udrejh-ePkbT0pT8aAgOMEALw_wcB&hvadid=426015455681&hvdev=c&hvlocphy=1001511&hvnetw=g&hvqmt=e&hvrand=6115544752250458266&hvtargid=kwd-447114230604&hydadcr=5622_11235117&keywords=codigo+limpo&qid=1619394841&sr=8-1) (In Progress)
 
 ### Videos
 
