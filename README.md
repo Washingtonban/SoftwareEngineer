@@ -45,6 +45,8 @@ Repository of planning of study about software engineer and correlated. This rep
 ## Courses
 
 - [ ] [CS50's AP® Computer Science Principles](https://www.edx.org/xseries/harvardx-cs50-ap-computer-science-principles?index=product&queryID=f3d81f132475a5b6e408ac7fa9d5eefa&position=5) (In Progress)
+  - [ ] [CS50's Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology) (In Progress)
+  - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [ ] [Learn the design approaches to software engineering](https://www.edx.org/micromasters/ubcx-software-development?index=product&queryID=8be09f9b612f102a9952d581ae5a400e&position=1)
 - [ ] [Advanced REST APIs with Flask and Python](https://www.udemy.com/course/advanced-rest-apis-flask-python/)
 - [ ] [Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/)
